@@ -1,0 +1,1 @@
+Ues tng_exvector.py to compute ex vector for arbitrary inclinations
