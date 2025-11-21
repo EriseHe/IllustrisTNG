@@ -1,2 +1,0 @@
-# IllustrisTNG
-IllustrisTNG Simulation Code
