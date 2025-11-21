@@ -115,10 +115,6 @@ def _ex_for_inclination(I, inclination_deg):
 
 def get_ex_vector(basePath, snap, subhalo_id, inclination_deg):
     """
-    Inclination angle in degrees:
-        0  -> face-on
-        90 -> edge-on
-
     Returns
     -------
     ex_vec : (3,) ndarray
